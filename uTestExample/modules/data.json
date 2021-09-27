@@ -1,0 +1,19 @@
+[{
+    "id":1,
+    "nombre": "Galletitas",
+    "cantidad":100,
+    "precio": 3.45
+},
+{
+    "id":2,
+    "nombre": "Yogurt",
+    "cantidad":20,
+    "precio": 15.50
+},
+{
+    "id":3,
+    "nombre": "Desodorante",
+    "cantidad":15,
+    "precio": 18.00
+}
+]
