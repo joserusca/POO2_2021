@@ -1,0 +1,10 @@
+{
+    "name": "miaplicacion",
+    "scripts": {
+        "start": "node jest.js",
+        "test": "jest "
+    },
+    "devDependencies": {
+        "jest": "^27.2.2"
+    }
+}
